@@ -15,8 +15,8 @@
   
    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
    ![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-   ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=rgb(93 0 210))
-   ![Insomnia](https://img.shields.io/badge/Insomnia-%23FFCC00.svg?style=for-the-badge&logo=insomnia&logoColor=black)
+   ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=fedcba)
+   ![Insomnia](https://img.shields.io/badge/Insomnia-%4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=black)
    ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 
