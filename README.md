@@ -5,13 +5,13 @@
 
 <p align="center">
 
-- **Lenguajes**:
+## Lenguajes
     
     ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     
-- **Back-End Development**:
+## Back-End Development
   
    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
    ![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -19,18 +19,18 @@
    ![Insomnia](https://img.shields.io/badge/Insomnia-%235d00d2.svg?style=for-the-badge&logo=insomnia&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-- **Front-End Development**:
+## Front-End Development
   
    ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Tools and version control:**:
+## Tools and version control:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![Git Bash](https://img.shields.io/badge/Git%20Bash-%230D1117.svg?style=for-the-badge&logo=git&logoColor=white)
     
-- **Methodology**:
+## Methodology
 
     ![Scrum](https://img.shields.io/badge/Scrum-%234EA94B.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
