@@ -13,6 +13,7 @@
     
 ## Back-End Development
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Insomnia](https://img.shields.io/badge/Insomnia-%235d00d2.svg?style=for-the-badge&logo=insomnia&logoColor=white)
