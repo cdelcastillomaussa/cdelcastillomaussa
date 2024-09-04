@@ -41,17 +41,17 @@
   <ul>
       <li>
         <a href="https://www.linkedin.com/in/cdelcastillomaussa/" target="_blank">
-          <img src="https://img.shields.io/badge/linkedin:  Carlos Del Castillo Maussa-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+          <img src="https://img.shields.io/badge/linkedin -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
         </a>
       </li>
       <li>
         <a href="mailto:maussac13@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/gmail:  Carlos Del Castillo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"/>
+          <img src="https://img.shields.io/badge/gmail -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"/>
         </a>
       </li>
       <li>
         <a href="https://wa.me/phone_number" target="_blank">
-          <img src="https://img.shields.io/badge/whatsapp:  Carlos-%2325?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;"/>
+          <img src="https://img.shields.io/badge/whatsapp -%2325?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;"/>
         </a>
       </li>
   </ul>
